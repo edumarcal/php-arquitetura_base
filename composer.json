@@ -1,0 +1,14 @@
+{
+    "name": "papejajr/arquitetura_base",
+    "authors": [
+        {
+            "name": "Eduardo Marçal",
+            "email": "edumarcalnet@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"classmap": [
+    		"./"
+    	]
+    }
+}
